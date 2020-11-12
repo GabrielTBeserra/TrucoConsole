@@ -1,0 +1,13 @@
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.exe
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.deps.json
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.runtimeconfig.json
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.runtimeconfig.dev.json
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.dll
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\bin\Debug\netcoreapp3.1\TrucoConsole.pdb
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.csprojAssemblyReference.cache
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.AssemblyInfoInputs.cache
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.AssemblyInfo.cs
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.csproj.CoreCompileInputs.cache
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.dll
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.pdb
+C:\Users\gbeserra\source\repos\TrucoConsole\TrucoConsole\obj\Debug\netcoreapp3.1\TrucoConsole.genruntimeconfig.cache
